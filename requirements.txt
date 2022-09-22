@@ -1,0 +1,4 @@
+playsound
+PyObjC
+opencv-python
+mediapipe
